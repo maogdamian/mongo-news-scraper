@@ -1,7 +1,7 @@
 # :newspaper: Paper Scraper
 A `Node.js` &amp; `MongoDB` webapp that web-scrapes news data from [The Onion](http://www.theonion.com/) and allows users to comment about what they have read. Users can also delete unwanted comments.
 
-Please check out the deployed version in Heroku [here](http://paper-scraper.herokuapp.com/)!
+Please check out the deployed version in Heroku [here](https://young-gorge-58142.herokuapp.com/articles)!
 
 
 ## Functionality
